@@ -60,7 +60,7 @@ def train_mnist_conv():
     model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
     # model fitting
     history = model.fit(
-        training_images, training_labels, epochs=20
+        training_images, training_labels, epochs=19
     )
     # model fitting
     return history.epoch, history.history['acc'][-1]
