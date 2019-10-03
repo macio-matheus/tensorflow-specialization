@@ -38,7 +38,7 @@ def train_happy_sad_model():
       
       def on_epoch_end(self,epoch,logs={}):
         if(logs.get('acc') > DESIRED_ACCURACY):
-            print("\nReached 99.9% accuracy so cancelling training!")
+            print("nReached 99.9% accuracy so cancelling training!")
             self.model.stop_training = True
         
 
