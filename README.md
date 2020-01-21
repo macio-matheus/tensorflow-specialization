@@ -14,7 +14,7 @@ Apply RNNs, GRUs, and LSTMs as you train them using text repositories.
 ### Modules
 
 ```sh
- - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+ - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
  - Convolutional Neural Networks in TensorFlow
  - Natural Language Processing in TensorFlow
  - Sequences, Time Series and Prediction
@@ -33,6 +33,14 @@ docker-compose up -d
 ```sh
 http://<your-ip>:8888/tree
 ```
+
+
+#### Certificates
+```sh
+    - Introduction to Tensorflow: https://www.coursera.org/account/accomplishments/certificate/2MVXT2GER64M
+    - Convolutional Neural Networks in TensorFlow: https://www.coursera.org/account/accomplishments/certificate/C3XUSLFD2AWF
+```
+
 
 #### Ports
 ```sh
