@@ -34,10 +34,8 @@ http://<your-ip>:8888/tree
 ```
 
 #### Certificates
-```sh
-    - [Introduction to Tensorflow](https://www.coursera.org/account/accomplishments/certificate/2MVXT2GER64M)
-    - [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/C3XUSLFD2AWF)
-```
+- [Introduction to Tensorflow](https://www.coursera.org/account/accomplishments/certificate/2MVXT2GER64M)
+- [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/C3XUSLFD2AWF)
 
 #### Ports
 ```sh
