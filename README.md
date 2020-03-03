@@ -36,6 +36,10 @@ http://<your-ip>:8888/tree
 #### Certificates
 - [Introduction to Tensorflow](https://www.coursera.org/account/accomplishments/certificate/2MVXT2GER64M)
 - [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/C3XUSLFD2AWF)
+- [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/records/BTUG6XZXPJ5J)
+- [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/records/9HYKE5EALJ3J)
+
+- Specialization-(https://www.coursera.org/account/accomplishments/specialization/F7LSLMHRB25C)
 
 #### Ports
 ```sh
